@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<quiz-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<LatinWord>villa</LatinWord>
+		<Definition>villa, house</Definition>
+		<EnglishDerivatives>villa, village, villager</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>alta</LatinWord>
+		<Definition>tall, high, deep</Definition>
+		<EnglishDerivatives>altitude, altimeter, alto</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>antiqua</LatinWord>
+		<Definition>antique, old</Definition>
+		<EnglishDerivatives>antique, antiquity, ancient</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>longa</LatinWord>
+		<Definition>long</Definition>
+		<EnglishDerivatives>longitude, longevity, long</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>magna</LatinWord>
+		<Definition>large, great</Definition>
+		<EnglishDerivatives>magnify, magnificent, magnitude</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pictura</LatinWord>
+		<Definition>picture</Definition>
+		<EnglishDerivatives>picture, picturesque, pictorial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nova</LatinWord>
+		<Definition>new</Definition>
+		<EnglishDerivatives>novice, novel, novelty, nova, Nova Scotia</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>terra</LatinWord>
+		<Definition>land, earth</Definition>
+		<EnglishDerivatives>terrier, terrace, terrestrial, terrain</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>prima</LatinWord>
+		<Definition>first</Definition>
+		<EnglishDerivatives>prime, primary, primitive, primeval</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sub</LatinWord>
+		<Definition>under</Definition>
+		<EnglishDerivatives>subway, subterranean, suburban</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>corna</LatinWord>
+		<Definition>horn</Definition>
+		<EnglishDerivatives>cornucopia, cornet, clavicorn</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>est</LatinWord>
+		<Definition>is</Definition>
+		<EnglishDerivatives>estate, establish, essence</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>habere</LatinWord>
+		<Definition>have</Definition>
+		<EnglishDerivatives>have, habit, habitual</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>casa</LatinWord>
+		<Definition>small house</Definition>
+		<EnglishDerivatives>casino</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>via</LatinWord>
+		<Definition>street</Definition>
+		<EnglishDerivatives>via</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>parva</LatinWord>
+		<Definition>small</Definition>
+		<EnglishDerivatives>parval, parvanimity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lata</LatinWord>
+		<Definition>wide, broad</Definition>
+		<EnglishDerivatives>latitude, lateral, latitudinal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bona</LatinWord>
+		<Definition>good</Definition>
+		<EnglishDerivatives>bonus, bonanza, bona fide</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>copia</LatinWord>
+		<Definition>plenty</Definition>
+		<EnglishDerivatives>copious, cornucopia, copiously</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fama</LatinWord>
+		<Definition>fame</Definition>
+		<EnglishDerivatives>fame, famous, infamous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>provincia</LatinWord>
+		<Definition>province</Definition>
+		<EnglishDerivatives>province, provincial, provincialism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>multa</LatinWord>
+		<Definition>many</Definition>
+		<EnglishDerivatives>multitude, multiple, multiplex</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nominare</LatinWord>
+		<Definition>to name</Definition>
+		<EnglishDerivatives>nominate, nominal, name, nominative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>postea</LatinWord>
+		<Definition>later</Definition>
+		<EnglishDerivatives>postlude, postgraduate, posthumous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>non</LatinWord>
+		<Definition>not</Definition>
+		<EnglishDerivatives>nonfction, nonmetal, nonexistent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>in</LatinWord>
+		<Definition>in</Definition>
+		<EnglishDerivatives>in</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>aqua</LatinWord>
+		<Definition>water</Definition>
+		<EnglishDerivatives>aquatics, aquarium, aqueduct, aqueous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>agricola</LatinWord>
+		<Definition>farmer</Definition>
+		<EnglishDerivatives>agriculture</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bestia</LatinWord>
+		<Definition>beast</Definition>
+		<EnglishDerivatives>bestial, bestiality</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>figura</LatinWord>
+		<Definition>figure, shape</Definition>
+		<EnglishDerivatives>figure, figurine, figment, figurative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>flamma</LatinWord>
+		<Definition>flame</Definition>
+		<EnglishDerivatives>flame, flamboyant, flambeau</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>herba</LatinWord>
+		<Definition>herb</Definition>
+		<EnglishDerivatives>herb, herbivorous, herbage</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>insula</LatinWord>
+		<Definition>island</Definition>
+		<EnglishDerivatives>insular, insulate, insularity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lingua</LatinWord>
+		<Definition>language</Definition>
+		<EnglishDerivatives>language, lingual, linguistics</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nauta</LatinWord>
+		<Definition>sailor</Definition>
+		<EnglishDerivatives>nautical, nautilus</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pirata</LatinWord>
+		<Definition>pirate</Definition>
+		<EnglishDerivatives>pirate, piratical</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>schola</LatinWord>
+		<Definition>school</Definition>
+		<EnglishDerivatives>scholar, school, scholastic</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>alba</LatinWord>
+		<Definition>white</Definition>
+		<EnglishDerivatives>albino, albinism albumen</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>amica</LatinWord>
+		<Definition>friendly</Definition>
+		<EnglishDerivatives>amicable, amicability, amity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>beata</LatinWord>
+		<Definition>happy</Definition>
+		<EnglishDerivatives>beatific, beatify, beatitude</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>maritima</LatinWord>
+		<Definition>sea</Definition>
+		<EnglishDerivatives>maritime</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mea</LatinWord>
+		<Definition>me</Definition>
+		<EnglishDerivatives>me, my</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mira</LatinWord>
+		<Definition>strange</Definition>
+		<EnglishDerivatives>miracle, miraculous, mirage</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nota</LatinWord>
+		<Definition>noted</Definition>
+		<EnglishDerivatives>noted, note, notice, notable, noticeable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>obscura</LatinWord>
+		<Definition>dark</Definition>
+		<EnglishDerivatives>obscure, obscured, obscurity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>periculosa</LatinWord>
+		<Definition>dangerous</Definition>
+		<EnglishDerivatives>perilous, peril</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>propinqua</LatinWord>
+		<Definition>near to</Definition>
+		<EnglishDerivatives>propinquity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pulchra</LatinWord>
+		<Definition>beautiful</Definition>
+		<EnglishDerivatives>pulchritude</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>quieta</LatinWord>
+		<Definition>quiet</Definition>
+		<EnglishDerivatives>quiet, quietude, disquiet</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>circum</LatinWord>
+		<Definition>around</Definition>
+		<EnglishDerivatives>circumstance, circumnavigate, circumspect </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>filia</LatinWord>
+		<Definition>daughter</Definition>
+		<EnglishDerivatives>filly, filial </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>folium</LatinWord>
+		<Definition>leaf</Definition>
+		<EnglishDerivatives>foliage, foliaceous, foliar</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>aureus</LatinWord>
+		<Definition>golden</Definition>
+		<EnglishDerivatives>aurorial, aurorean, aurous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>plumbeus</LatinWord>
+		<Definition>leaden</Definition>
+		<EnglishDerivatives>plumbing, plumbous, plumbic, plumbeous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mutare</LatinWord>
+		<Definition>to change</Definition>
+		<EnglishDerivatives>mutation, commute, transmute</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vulnerare</LatinWord>
+		<Definition>to wound</Definition>
+		<EnglishDerivatives>vulnerable, invulnerable, vulnerary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vitare</LatinWord>
+		<Definition>to avoid</Definition>
+		<EnglishDerivatives>inevitable, inevitably, inevitability</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>morbus</LatinWord>
+		<Definition>disease</Definition>
+		<EnglishDerivatives>morbid, morbidity, morbific</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>populus</LatinWord>
+		<Definition>people</Definition>
+		<EnglishDerivatives>populous, population, popular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>radius</LatinWord>
+		<Definition>ray</Definition>
+		<EnglishDerivatives>radius, radial, radiation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>arma</LatinWord>
+		<Definition>arms (weapons)</Definition>
+		<EnglishDerivatives>arms, armed, armament, army</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>saxum</LatinWord>
+		<Definition>rock</Definition>
+		<EnglishDerivatives>saxatile, saxicoline, saxifrage</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>evocare</LatinWord>
+		<Definition>call forth</Definition>
+		<EnglishDerivatives>evoke, evocable, evocator</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>femina</LatinWord>
+		<Definition>woman</Definition>
+		<EnglishDerivatives>feminine, effeminate, femme</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>densa</LatinWord>
+		<Definition>thick</Definition>
+		<EnglishDerivatives>dense, densely, density</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>territa</LatinWord>
+		<Definition>frightened</Definition>
+		<EnglishDerivatives>terrified, terrific, teresy</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>invidiosa</LatinWord>
+		<Definition>jealous</Definition>
+		<EnglishDerivatives>invidious, invidiously</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>superba</LatinWord>
+		<Definition>proud</Definition>
+		<EnglishDerivatives>superb, superbly</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>desidare</LatinWord>
+		<Definition>to want</Definition>
+		<EnglishDerivatives>desire, desirable, desirability</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>laudare</LatinWord>
+		<Definition>to praise</Definition>
+		<EnglishDerivatives>laudable, laud, laudability</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>servare</LatinWord>
+		<Definition>to save</Definition>
+		<EnglishDerivatives>serve, conserve, preserve</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nympha</LatinWord>
+		<Definition>nymph</Definition>
+		<EnglishDerivatives>nymph, nymphal, nymphalia, nymphomaniac</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>grata</LatinWord>
+		<Definition>pleasing</Definition>
+		<EnglishDerivatives>grateful, gratitude, gratuity </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>libera</LatinWord>
+		<Definition>free</Definition>
+		<EnglishDerivatives>liberal, liberator, liberate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>postulare</LatinWord>
+		<Definition>to demand</Definition>
+		<EnglishDerivatives>postulate, postulant, postulation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sola</LatinWord>
+		<Definition>alone</Definition>
+		<EnglishDerivatives>solo, sole, solace</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>janua</LatinWord>
+		<Definition>door</Definition>
+		<EnglishDerivatives>January, janitor, janitress</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>temptare</LatinWord>
+		<Definition>to try</Definition>
+		<EnglishDerivatives>tempt, temptation, attempt</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>trans</LatinWord>
+		<Definition>across</Definition>
+		<EnglishDerivatives>transport, transmit, transact</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pecunia</LatinWord>
+		<Definition>money</Definition>
+		<EnglishDerivatives>pecuniary, pecuniarily, impecunious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ripa</LatinWord>
+		<Definition>river bank</Definition>
+		<EnglishDerivatives>riparian, Ripuarian</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>umbra</LatinWord>
+		<Definition>shade, ghost</Definition>
+		<EnglishDerivatives>umbrella, penumbra, umbra, umbrage</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>annus</LatinWord>
+		<Definition>year</Definition>
+		<EnglishDerivatives>annual, annually, annuity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bellum</LatinWord>
+		<Definition>war</Definition>
+		<EnglishDerivatives>belligerent, belligerency, bellicose </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>initium</LatinWord>
+		<Definition>beginning</Definition>
+		<EnglishDerivatives>initial, initially, initiation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mortuus</LatinWord>
+		<Definition>dead</Definition>
+		<EnglishDerivatives>mortuary, mortician, mortality</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>occupare</LatinWord>
+		<Definition>to occupy</Definition>
+		<EnglishDerivatives>occupy, occupation, occupational</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pugnare</LatinWord>
+		<Definition>fight</Definition>
+		<EnglishDerivatives>pugnacious, pugilist, pugnacity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vigilare</LatinWord>
+		<Definition>to stand watch</Definition>
+		<EnglishDerivatives>vigilant, vigil, vigilance</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>post</LatinWord>
+		<Definition>after</Definition>
+		<EnglishDerivatives>postmortem, postnatal, postpone</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ala</LatinWord>
+		<Definition>wing</Definition>
+		<EnglishDerivatives>alate, alated, alary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>patria</LatinWord>
+		<Definition>native country</Definition>
+		<EnglishDerivatives>patriotic, expatriate, patriotism </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>porta</LatinWord>
+		<Definition>gate</Definition>
+		<EnglishDerivatives>port, portal, porthole</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>discipulus</LatinWord>
+		<Definition>pupil</Definition>
+		<EnglishDerivatives>disciple, discipleship, discipline </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>locus</LatinWord>
+		<Definition>place</Definition>
+		<EnglishDerivatives>locus, location, locate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>magister</LatinWord>
+		<Definition>teacher</Definition>
+		<EnglishDerivatives>magistrate, magisterial, magistracy </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lucere, luxi</LatinWord>
+		<Definition>to shine</Definition>
+		<EnglishDerivatives>translucent, lucid, luciferous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fluere, fluxi</LatinWord>
+		<Definition>to flow</Definition>
+		<EnglishDerivatives>fluent, fluid, fluency</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>regare, rexi</LatinWord>
+		<Definition>to rule</Definition>
+		<EnglishDerivatives>regal, rex, regency, regulation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>egregius</LatinWord>
+		<Definition>excellent</Definition>
+		<EnglishDerivatives>egregious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>docere</LatinWord>
+		<Definition>teach</Definition>
+		<EnglishDerivatives>docent, doctrine, document, documentary </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>quaerere</LatinWord>
+		<Definition>seek</Definition>
+		<EnglishDerivatives>inquiry, inquire, inquisitive</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fumus</LatinWord>
+		<Definition>smoke</Definition>
+		<EnglishDerivatives>fume, fumigate, fumatory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>proximus</LatinWord>
+		<Definition>nearest</Definition>
+		<EnglishDerivatives>proximity, approximate, proximal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>currere</LatinWord>
+		<Definition>to run</Definition>
+		<EnglishDerivatives>current, occurring, occurrence</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>extra</LatinWord>
+		<Definition>beyond</Definition>
+		<EnglishDerivatives>extra, extramural, extraneous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>legatus</LatinWord>
+		<Definition>representative</Definition>
+		<EnglishDerivatives>legate, legacy, legislate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>navis</LatinWord>
+		<Definition>ship</Definition>
+		<EnglishDerivatives>navy, naval, navigate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pars, partis</LatinWord>
+		<Definition>part</Definition>
+		<EnglishDerivatives>part, partial, partiality</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pax, pacis</LatinWord>
+		<Definition>peace</Definition>
+		<EnglishDerivatives>pacifist, pacifier, pacifistic</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>urbs</LatinWord>
+		<Definition>city</Definition>
+		<EnglishDerivatives>urban, urbane, suburb</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>quinque</LatinWord>
+		<Definition>five</Definition>
+		<EnglishDerivatives>quintet, quinquagesima, quintuplets</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>augere</LatinWord>
+		<Definition>to increase</Definition>
+		<EnglishDerivatives>augment, augmentative, augmentation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>obtinere</LatinWord>
+		<Definition>to obtain</Definition>
+		<EnglishDerivatives>obtain, obtainable, obtainment</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>committere</LatinWord>
+		<Definition>entrust</Definition>
+		<EnglishDerivatives>commit, commission, commissioner, committee </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>satis</LatinWord>
+		<Definition>enough</Definition>
+		<EnglishDerivatives>satisfy, satisfaction, satisifiable </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>caput, capitis</LatinWord>
+		<Definition>head</Definition>
+		<EnglishDerivatives>decapitate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>corpus</LatinWord>
+		<Definition>body</Definition>
+		<EnglishDerivatives>corpse, corporeal, corperation, incorporate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>eques, equitis</LatinWord>
+		<Definition>horseman</Definition>
+		<EnglishDerivatives>equestrian, equitation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>miles, militis</LatinWord>
+		<Definition>soldier</Definition>
+		<EnglishDerivatives>military, militarize, militarism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tempus</LatinWord>
+		<Definition>time</Definition>
+		<EnglishDerivatives>tempo, temporal, temporary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pratiuosus</LatinWord>
+		<Definition>precious</Definition>
+		<EnglishDerivatives>precious, preciosity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>firmiter</LatinWord>
+		<Definition>firmly</Definition>
+		<EnglishDerivatives>firm, firmly, affirmative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dolor</LatinWord>
+		<Definition>grief</Definition>
+		<EnglishDerivatives>dolor, dolorous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>finis</LatinWord>
+		<Definition>limit, end</Definition>
+		<EnglishDerivatives>finis, finish, finite</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>munire</LatinWord>
+		<Definition>fortify</Definition>
+		<EnglishDerivatives>munition, ammunition, muniment</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>imperium</LatinWord>
+		<Definition>empire</Definition>
+		<EnglishDerivatives>imperial, imperialism, empire</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tyrannus</LatinWord>
+		<Definition>tyrant</Definition>
+		<EnglishDerivatives>tyrant, tyranny, tyrannous </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>decemviri</LatinWord>
+		<Definition>group of 10 magistrates</Definition>
+		<EnglishDerivatives>decemvir, decemvirate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>civis</LatinWord>
+		<Definition>citizen</Definition>
+		<EnglishDerivatives>civilian, civil, civic</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lex, legis</LatinWord>
+		<Definition>law</Definition>
+		<EnglishDerivatives>legislate, legal, legality</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cupius</LatinWord>
+		<Definition>eager</Definition>
+		<EnglishDerivatives>cupidity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>probare</LatinWord>
+		<Definition>test, try</Definition>
+		<EnglishDerivatives>problem, probe, prove</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>deponere</LatinWord>
+		<Definition>to lay down</Definition>
+		<EnglishDerivatives>depone, deponent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>perficere</LatinWord>
+		<Definition>to finish</Definition>
+		<EnglishDerivatives>perfect, perfection, perfectible</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lignum</LatinWord>
+		<Definition>wood</Definition>
+		<EnglishDerivatives>lignify, lignose, ligneous </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>custos, custodis</LatinWord>
+		<Definition>watchman</Definition>
+		<EnglishDerivatives>custodian, custodial, custody</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>flumen</LatinWord>
+		<Definition>river</Definition>
+		<EnglishDerivatives>flume</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>homo</LatinWord>
+		<Definition>man</Definition>
+		<EnglishDerivatives>homunculus, homo</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>hostis</LatinWord>
+		<Definition>enemy</Definition>
+		<EnglishDerivatives>hostile, hostility</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mons, montis</LatinWord>
+		<Definition>mountain</Definition>
+		<EnglishDerivatives>monticule, mountain, mount </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>alter</LatinWord>
+		<Definition>other</Definition>
+		<EnglishDerivatives>alter, alternate, alter ego</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>flavus</LatinWord>
+		<Definition>yellow</Definition>
+		<EnglishDerivatives>flavescent, flavin, flavine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>deportare</LatinWord>
+		<Definition>to remove</Definition>
+		<EnglishDerivatives>deport, deportation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>construere</LatinWord>
+		<Definition>to build</Definition>
+		<EnglishDerivatives>construct, construction, constructor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tremere</LatinWord>
+		<Definition>to tremble</Definition>
+		<EnglishDerivatives>tremble, tremor, tremulous </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>transire</LatinWord>
+		<Definition>to go across</Definition>
+		<EnglishDerivatives>transport, transit, transition</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>summus</LatinWord>
+		<Definition>highest</Definition>
+		<EnglishDerivatives>summit</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>agmen</LatinWord>
+		<Definition>marching army</Definition>
+		<EnglishDerivatives>agminate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>iter, internis</LatinWord>
+		<Definition>trip</Definition>
+		<EnglishDerivatives>itinerary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lux, lucis</LatinWord>
+		<Definition>light</Definition>
+		<EnglishDerivatives>(see lucere) </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>gemma</LatinWord>
+		<Definition>jewel</Definition>
+		<EnglishDerivatives>gem</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>luna</LatinWord>
+		<Definition>moon</Definition>
+		<EnglishDerivatives>luna, lunar, lunatic</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>stella</LatinWord>
+		<Definition>star</Definition>
+		<EnglishDerivatives>stellar, constellation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>inter</LatinWord>
+		<Definition>between, among</Definition>
+		<EnglishDerivatives>interact, intermingle, interpose</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>celeriter</LatinWord>
+		<Definition>accelerate</Definition>
+		<EnglishDerivatives>accelerate accelerator, celerity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>noctu</LatinWord>
+		<Definition>night</Definition>
+		<EnglishDerivatives>noctourne, nocturnal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>regia</LatinWord>
+		<Definition>palace</Definition>
+		<EnglishDerivatives>regal, regalia, regality</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ager</LatinWord>
+		<Definition>field</Definition>
+		<EnglishDerivatives>agrarian</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>deus</LatinWord>
+		<Definition>god</Definition>
+		<EnglishDerivatives>deity, deism, deist</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fluvius</LatinWord>
+		<Definition>stream, river</Definition>
+		<EnglishDerivatives>fluent, fluvial, flux</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>focus</LatinWord>
+		<Definition>hearth</Definition>
+		<EnglishDerivatives>focal, focalize, focus</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>gladius</LatinWord>
+		<Definition>sword</Definition>
+		<EnglishDerivatives>gladiator, gladiola, gladiatorial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>caelum</LatinWord>
+		<Definition>sky</Definition>
+		<EnglishDerivatives>celestial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>donum</LatinWord>
+		<Definition>gift</Definition>
+		<EnglishDerivatives>donate, donation, donor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>verbum</LatinWord>
+		<Definition>word</Definition>
+		<EnglishDerivatives>verbal, verbose, verb</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>apertus</LatinWord>
+		<Definition>open</Definition>
+		<EnglishDerivatives>aperture, apertive, aperient</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>audit</LatinWord>
+		<Definition>hear</Definition>
+		<EnglishDerivatives>audition, auditorium, auditory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>meminsse</LatinWord>
+		<Definition>remember</Definition>
+		<EnglishDerivatives>remember, reminisce, memory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ambulare</LatinWord>
+		<Definition>to walk</Definition>
+		<EnglishDerivatives>amble, somnabulent, ambulatory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>possum</LatinWord>
+		<Definition>to be able</Definition>
+		<EnglishDerivatives>posse, potent, impotent, omnipotent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>amare</LatinWord>
+		<Definition>to love</Definition>
+		<EnglishDerivatives>amiable, amiably, amity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>celare</LatinWord>
+		<Definition>to hide</Definition>
+		<EnglishDerivatives>conceal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>clamare</LatinWord>
+		<Definition>to shout</Definition>
+		<EnglishDerivatives>clamor, exclaim, clammant</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>habitare</LatinWord>
+		<Definition>to live</Definition>
+		<EnglishDerivatives>habitat, habitable, habitation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>laborare</LatinWord>
+		<Definition>to work</Definition>
+		<EnglishDerivatives>labor, laboratory, laborious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>monstrare</LatinWord>
+		<Definition>to show</Definition>
+		<EnglishDerivatives>demonstrate, demonstration</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>narrare</LatinWord>
+		<Definition>to tell</Definition>
+		<EnglishDerivatives>narrate, narration, narrator, narrative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>necare</LatinWord>
+		<Definition>to kill</Definition>
+		<EnglishDerivatives>necropolis, necrology</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>orare</LatinWord>
+		<Definition>to ask for</Definition>
+		<EnglishDerivatives>oracle, oral, oracular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>portare</LatinWord>
+		<Definition>to carry</Definition>
+		<EnglishDerivatives>portable, porter, port</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>spectare</LatinWord>
+		<Definition>to watch</Definition>
+		<EnglishDerivatives>spectate, spectator, spectacular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vastare</LatinWord>
+		<Definition>to destroy</Definition>
+		<EnglishDerivatives>vast, waste, vastitude</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vocare</LatinWord>
+		<Definition>to call</Definition>
+		<EnglishDerivatives>vocal, vocation, vocative, evoke, evocative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>volare</LatinWord>
+		<Definition>to fly</Definition>
+		<EnglishDerivatives>volplane, volley</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>monere</LatinWord>
+		<Definition>to warn</Definition>
+		<EnglishDerivatives>admonish, admonition</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>timere</LatinWord>
+		<Definition>to fear</Definition>
+		<EnglishDerivatives>timid, intimidate, intimidation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>valere</LatinWord>
+		<Definition>to be well</Definition>
+		<EnglishDerivatives>value, valuable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>videre</LatinWord>
+		<Definition>to see</Definition>
+		<EnglishDerivatives>video, vision, visible</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>misera</LatinWord>
+		<Definition>sad</Definition>
+		<EnglishDerivatives>misery, miserable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>irata</LatinWord>
+		<Definition>angry</Definition>
+		<EnglishDerivatives>irate, irritable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>laeta</LatinWord>
+		<Definition>happy</Definition>
+		<EnglishDerivatives>elate, elation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>saggita</LatinWord>
+		<Definition>arrow</Definition>
+		<EnglishDerivatives>Sagittarius</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>manere</LatinWord>
+		<Definition>to stay</Definition>
+		<EnglishDerivatives>remain, remainder</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sedere</LatinWord>
+		<Definition>to sit</Definition>
+		<EnglishDerivatives>sediment, sedimentary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dicit</LatinWord>
+		<Definition>says</Definition>
+		<EnglishDerivatives>dictate, dictation, dictionary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>errare</LatinWord>
+		<Definition>to wander, err</Definition>
+		<EnglishDerivatives>err, error, errant</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>expectare</LatinWord>
+		<Definition>to expect</Definition>
+		<EnglishDerivatives>expect, expectant, expectation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>baca</LatinWord>
+		<Definition>berry</Definition>
+		<EnglishDerivatives>baccalaureate, baccate baccivirus</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>clava</LatinWord>
+		<Definition>club</Definition>
+		<EnglishDerivatives>clavicorn, clavate, claviform </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>galea</LatinWord>
+		<Definition>helmet</Definition>
+		<EnglishDerivatives>galeate, galeated </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cura</LatinWord>
+		<Definition>care</Definition>
+		<EnglishDerivatives>manicure, pedicure, cure</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>hora</LatinWord>
+		<Definition>hour</Definition>
+		<EnglishDerivatives>hour, hourglass</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>scutum</LatinWord>
+		<Definition>shield</Definition>
+		<EnglishDerivatives>scutate, scute scutellate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>adornatus</LatinWord>
+		<Definition>decorated</Definition>
+		<EnglishDerivatives>adorn, adornment</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>validus</LatinWord>
+		<Definition>strong, well</Definition>
+		<EnglishDerivatives>value, valuation, valuable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vale</LatinWord>
+		<Definition>farewell</Definition>
+		<EnglishDerivatives>valedictorian</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>jactare</LatinWord>
+		<Definition>to hurl</Definition>
+		<EnglishDerivatives>jactation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bene</LatinWord>
+		<Definition>well</Definition>
+		<EnglishDerivatives>benefit, beneficial, beneficiary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vir</LatinWord>
+		<Definition>man</Definition>
+		<EnglishDerivatives>virile, virility, virilism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>apparere</LatinWord>
+		<Definition>to appear</Definition>
+		<EnglishDerivatives>appear, appearance, disappear</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>equus</LatinWord>
+		<Definition>horse</Definition>
+		<EnglishDerivatives>equitation, equine, equestrian</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>oleum</LatinWord>
+		<Definition>oil</Definition>
+		<EnglishDerivatives>(ending) -ole, oleo, oleic</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>appelare</LatinWord>
+		<Definition>to name</Definition>
+		<EnglishDerivatives>appeal, apellate, apellation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>rogare</LatinWord>
+		<Definition>to ask</Definition>
+		<EnglishDerivatives>rogation, rogatory, derogate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>consilium</LatinWord>
+		<Definition>plan</Definition>
+		<EnglishDerivatives>counsel, counsellor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>flammeus</LatinWord>
+		<Definition>fiery</Definition>
+		<EnglishDerivatives>flammable, imflammable, flame</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ligneous</LatinWord>
+		<Definition>wooden</Definition>
+		<EnglishDerivatives>ligneous, lignin, lignify</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>secreto</LatinWord>
+		<Definition>secretly</Definition>
+		<EnglishDerivatives>secret, discretion</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>candida</LatinWord>
+		<Definition>straightforward</Definition>
+		<EnglishDerivatives>candid, candidate, candidacy</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vita</LatinWord>
+		<Definition>life</Definition>
+		<EnglishDerivatives>vital, vitality, vitalize</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>filius</LatinWord>
+		<Definition>son</Definition>
+		<EnglishDerivatives>filial, filiation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>servus</LatinWord>
+		<Definition>slave</Definition>
+		<EnglishDerivatives>serve, servant, servitude</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>auxilium</LatinWord>
+		<Definition>help</Definition>
+		<EnglishDerivatives>auxiliary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>frumentum</LatinWord>
+		<Definition>grain</Definition>
+		<EnglishDerivatives>frumentaceous, frumenty</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mittere</LatinWord>
+		<Definition>to send</Definition>
+		<EnglishDerivatives>transmit, transmitter, emit</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vincere</LatinWord>
+		<Definition>to conquer</Definition>
+		<EnglishDerivatives>invincible, vincible, vincibility</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>punire</LatinWord>
+		<Definition>to punish</Definition>
+		<EnglishDerivatives>punish, punishable, punitive</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pro</LatinWord>
+		<Definition>for</Definition>
+		<EnglishDerivatives>pro</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pro</LatinWord>
+		<Definition>before</Definition>
+		<EnglishDerivatives>prophet, propolis, prodrome</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>paeninsula</LatinWord>
+		<Definition>peninsula</Definition>
+		<EnglishDerivatives>peninsula, peninsular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>unda</LatinWord>
+		<Definition>wave</Definition>
+		<EnglishDerivatives>undulate, undulatory, undulative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>minime</LatinWord>
+		<Definition>no</Definition>
+		<EnglishDerivatives>minimal, minimum</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>coma</LatinWord>
+		<Definition>hair</Definition>
+		<EnglishDerivatives>coma, comate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>corona</LatinWord>
+		<Definition>crown</Definition>
+		<EnglishDerivatives>coronal, corona, coronary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>laurus</LatinWord>
+		<Definition>laurel tree</Definition>
+		<EnglishDerivatives>laureal, laureate, lauraceous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>puer</LatinWord>
+		<Definition>boy</Definition>
+		<EnglishDerivatives>puerile, puerility, puerilism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ramus</LatinWord>
+		<Definition>branch</Definition>
+		<EnglishDerivatives>ramose, ramiform, ramous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bracchium</LatinWord>
+		<Definition>arm</Definition>
+		<EnglishDerivatives>brachial, brachium, brachipod</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>medius</LatinWord>
+		<Definition>middle</Definition>
+		<EnglishDerivatives>medium, mediocre, mediate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sacer, sacra</LatinWord>
+		<Definition>holy</Definition>
+		<EnglishDerivatives>sacrament, sacerdotal, sacrium, sacred</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ardere, arsi</LatinWord>
+		<Definition>to burn</Definition>
+		<EnglishDerivatives>arson, ardent, ardency</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>deligere, legi</LatinWord>
+		<Definition>choose</Definition>
+		<EnglishDerivatives>delegate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>custodire</LatinWord>
+		<Definition>guard, watch</Definition>
+		<EnglishDerivatives>custodian, custodial, custody</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>diligenter</LatinWord>
+		<Definition>carefully</Definition>
+		<EnglishDerivatives>diligently, diligent, diligency</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>scientia</LatinWord>
+		<Definition>science, knowledge</Definition>
+		<EnglishDerivatives>science, scientific, scientist</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vicinius</LatinWord>
+		<Definition>neighbor</Definition>
+		<EnglishDerivatives>vicinity, vicinial, vicinage</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>medicus</LatinWord>
+		<Definition>doctor, medicine</Definition>
+		<EnglishDerivatives>medicine, medical, medication</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pauci</LatinWord>
+		<Definition>few</Definition>
+		<EnglishDerivatives>paucity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fecere, feci</LatinWord>
+		<Definition>to make</Definition>
+		<EnglishDerivatives>manufacture, perfect, factory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sonus</LatinWord>
+		<Definition>sound</Definition>
+		<EnglishDerivatives>sonar, sonorous, sonic, sonogram</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>secundus</LatinWord>
+		<Definition>second</Definition>
+		<EnglishDerivatives>second, secondary, second-hand </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>aedificum</LatinWord>
+		<Definition>edifice</Definition>
+		<EnglishDerivatives>edifice</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dolere</LatinWord>
+		<Definition>grieve</Definition>
+		<EnglishDerivatives>doleful, dolorous, dolesome</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>accipere</LatinWord>
+		<Definition>accept</Definition>
+		<EnglishDerivatives>accept, acceptable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>aperire</LatinWord>
+		<Definition>to open</Definition>
+		<EnglishDerivatives>aperture, aperient</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>hortus</LatinWord>
+		<Definition>garden</Definition>
+		<EnglishDerivatives>horticulture, horticulturist</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>aurum</LatinWord>
+		<Definition>gold</Definition>
+		<EnglishDerivatives>aureate, aureomycin, auric</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>praemium</LatinWord>
+		<Definition>prize</Definition>
+		<EnglishDerivatives>premium</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bibare</LatinWord>
+		<Definition>to drink</Definition>
+		<EnglishDerivatives>bib, bibulous, imbibe</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>edere</LatinWord>
+		<Definition>to eat</Definition>
+		<EnglishDerivatives>edible, edibility, inedible</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vesperi</LatinWord>
+		<Definition>in the evening</Definition>
+		<EnglishDerivatives>vespers, vespertilionine, vespertine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>saccus</LatinWord>
+		<Definition>bag</Definition>
+		<EnglishDerivatives>sack, sac, saccate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>socius</LatinWord>
+		<Definition>companion</Definition>
+		<EnglishDerivatives>associate, social, association, antisocial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>somnus</LatinWord>
+		<Definition>sleep</Definition>
+		<EnglishDerivatives>somnambulant, insomnia, somniferous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ventus</LatinWord>
+		<Definition>wind</Definition>
+		<EnglishDerivatives>ventilate, ventilator, ventiduct</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>malus</LatinWord>
+		<Definition>bad, evil, wicked</Definition>
+		<EnglishDerivatives>malevolent, malicious, malpractice</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>exitare</LatinWord>
+		<Definition>to stir up</Definition>
+		<EnglishDerivatives>excite, excitement, excitable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dormire</LatinWord>
+		<Definition>to sleep</Definition>
+		<EnglishDerivatives>dormitory, dormant, dormouse</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mater</LatinWord>
+		<Definition>mother</Definition>
+		<EnglishDerivatives>matriarch, matriarchal, mater, materfamilias, matricide, maternal, maternity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pater</LatinWord>
+		<Definition>father</Definition>
+		<EnglishDerivatives>paternal, patriarch, paternalism, paternity, patricide</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ater</LatinWord>
+		<Definition>black</Definition>
+		<EnglishDerivatives>atrabiliar, atrabilious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>geminus</LatinWord>
+		<Definition>twin</Definition>
+		<EnglishDerivatives>geminate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vivus</LatinWord>
+		<Definition>alive</Definition>
+		<EnglishDerivatives>viva, vivarium, vivid</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>conspicere</LatinWord>
+		<Definition>to look at</Definition>
+		<EnglishDerivatives>conspicuous, inconspicuous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ante</LatinWord>
+		<Definition>before</Definition>
+		<EnglishDerivatives>antecommunion, penny ante, antecedent, antebellum</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>numerus</LatinWord>
+		<Definition>number</Definition>
+		<EnglishDerivatives>numeral, numerology, numerical</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ferus</LatinWord>
+		<Definition>fierce</Definition>
+		<EnglishDerivatives>fierce, ferocious,  ferocity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fugare</LatinWord>
+		<Definition>to flee</Definition>
+		<EnglishDerivatives>fugitive, centrifuge, fugue</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>procedere, -cessi</LatinWord>
+		<Definition>to proceed</Definition>
+		<EnglishDerivatives>proceed procession, process</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>formica</LatinWord>
+		<Definition>ant</Definition>
+		<EnglishDerivatives>formicate, formicary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>delere</LatinWord>
+		<Definition>destroy</Definition>
+		<EnglishDerivatives>deletion, deletem deleterious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cadere, cecidi</LatinWord>
+		<Definition>to fall</Definition>
+		<EnglishDerivatives>decay, deciduous, occasion, cascade, cadaverous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>invadere</LatinWord>
+		<Definition>to invade</Definition>
+		<EnglishDerivatives>invade, invasion, invader</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>occidere</LatinWord>
+		<Definition>cut down</Definition>
+		<EnglishDerivatives>occidental, occident</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>crista</LatinWord>
+		<Definition>crest</Definition>
+		<EnglishDerivatives>cristate, crest, cristated</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>maga</LatinWord>
+		<Definition>sorceress</Definition>
+		<EnglishDerivatives>magic, magician, magical</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>penna</LatinWord>
+		<Definition>feather</Definition>
+		<EnglishDerivatives>pen, penmanship, pencil</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>potentia</LatinWord>
+		<Definition>power</Definition>
+		<EnglishDerivatives>potential, potency, potentate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>campus</LatinWord>
+		<Definition>field</Definition>
+		<EnglishDerivatives>campus, camp, campo</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>oculus</LatinWord>
+		<Definition>eye</Definition>
+		<EnglishDerivatives>ocular, oculist, oculomotor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>rostrum</LatinWord>
+		<Definition>beak</Definition>
+		<EnglishDerivatives>rostral, rostrate, rostrum</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>absum</LatinWord>
+		<Definition>be absent</Definition>
+		<EnglishDerivatives>absent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>invenire</LatinWord>
+		<Definition>to find</Definition>
+		<EnglishDerivatives>invent, invention, inventor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>constitutare</LatinWord>
+		<Definition>to decide</Definition>
+		<EnglishDerivatives>constitute, constitution, constitutional</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>opprimere</LatinWord>
+		<Definition>to press down</Definition>
+		<EnglishDerivatives>oppress, oppression, oppressor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>praecipere</LatinWord>
+		<Definition>to teach</Definition>
+		<EnglishDerivatives>precept, perceptive, preceptor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>protegere</LatinWord>
+		<Definition>to protect</Definition>
+		<EnglishDerivatives>protect, protector, protection</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lumen</LatinWord>
+		<Definition>light</Definition>
+		<EnglishDerivatives>luminous, luminescence, illuminate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>desperare</LatinWord>
+		<Definition>to despair</Definition>
+		<EnglishDerivatives>despair, desperate, desperation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>retinare</LatinWord>
+		<Definition>to retain</Definition>
+		<EnglishDerivatives>retain, retainer, retainment</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>subducere</LatinWord>
+		<Definition>to haul up</Definition>
+		<EnglishDerivatives>subduce, subdue, subduct </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dimittere, -misi</LatinWord>
+		<Definition>dismiss</Definition>
+		<EnglishDerivatives>dismiss, dismissal, dismissive</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>petere</LatinWord>
+		<Definition>to pursue</Definition>
+		<EnglishDerivatives>petulant, petulancy</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>avide</LatinWord>
+		<Definition>avidly</Definition>
+		<EnglishDerivatives>avid, avidly, avidity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pomum</LatinWord>
+		<Definition>fruit</Definition>
+		<EnglishDerivatives>pome, pommel, pomade</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>gustare</LatinWord>
+		<Definition>to taste</Definition>
+		<EnglishDerivatives>gusto, gustatory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tenere</LatinWord>
+		<Definition>to hold</Definition>
+		<EnglishDerivatives>tenure, tenant, tenacity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>recipere</LatinWord>
+		<Definition>to take</Definition>
+		<EnglishDerivatives>recipient, recipe, recipience</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>reducare</LatinWord>
+		<Definition>bring back</Definition>
+		<EnglishDerivatives>reduce, reduction, reducer</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>relinquere</LatinWord>
+		<Definition>leave</Definition>
+		<EnglishDerivatives>relinquish, relinquishment</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>provocare</LatinWord>
+		<Definition>provoke</Definition>
+		<EnglishDerivatives>provoke, provocation, provocative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>remus</LatinWord>
+		<Definition>oar,</Definition>
+		<EnglishDerivatives>remiges, remex, remigial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>columba</LatinWord>
+		<Definition>dove</Definition>
+		<EnglishDerivatives>columbarium, columbary, columbine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>malificum</LatinWord>
+		<Definition>evil deed</Definition>
+		<EnglishDerivatives>malefic, malificence, malificent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>verus</LatinWord>
+		<Definition>true, genuine</Definition>
+		<EnglishDerivatives>very, verily, verism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>terrare</LatinWord>
+		<Definition>to frighten</Definition>
+		<EnglishDerivatives>terrify, terrible, terrific</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>texare</LatinWord>
+		<Definition>to weave</Definition>
+		<EnglishDerivatives>textile, texture, text</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>certe</LatinWord>
+		<Definition>surely</Definition>
+		<EnglishDerivatives>certain, certainly, certify</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>temere</LatinWord>
+		<Definition>rashly</Definition>
+		<EnglishDerivatives>temerarious, temerity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>facile</LatinWord>
+		<Definition>easily</Definition>
+		<EnglishDerivatives>facile, facilitate, facility</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>audacia</LatinWord>
+		<Definition>boldness</Definition>
+		<EnglishDerivatives>audacity, audacious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>poena</LatinWord>
+		<Definition>punishment</Definition>
+		<EnglishDerivatives>penalty, penal, penalize</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>colloquium</LatinWord>
+		<Definition>conversation</Definition>
+		<EnglishDerivatives>colloquial, colloquialism, colloquy</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nihil</LatinWord>
+		<Definition>nothing</Definition>
+		<EnglishDerivatives>nihilism, nihilistic, nihilist</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tacitus</LatinWord>
+		<Definition>silent</Definition>
+		<EnglishDerivatives>taciturn, tacit, taciturnity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>circumspectare</LatinWord>
+		<Definition>to look around</Definition>
+		<EnglishDerivatives>circumspect, circumspection</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lacrimare</LatinWord>
+		<Definition>to cry, weep</Definition>
+		<EnglishDerivatives>lacrimal, lachrymose, lacriminatory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>incipere</LatinWord>
+		<Definition>begin</Definition>
+		<EnglishDerivatives>inception, incipient, incipience</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>spelunca</LatinWord>
+		<Definition>cave</Definition>
+		<EnglishDerivatives>spelunker, spelian</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>perire</LatinWord>
+		<Definition>to perish</Definition>
+		<EnglishDerivatives>perish, perishable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fidus</LatinWord>
+		<Definition>faithful</Definition>
+		<EnglishDerivatives>fidelity, fiduciary, infidelity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>spina</LatinWord>
+		<Definition>thorn</Definition>
+		<EnglishDerivatives>spine, spinal, spinescent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dominus</LatinWord>
+		<Definition>master</Definition>
+		<EnglishDerivatives>dominate, domineering, dominant</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>verum</LatinWord>
+		<Definition>truth</Definition>
+		<EnglishDerivatives>verity, veritability, verify</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>latere</LatinWord>
+		<Definition>hide</Definition>
+		<EnglishDerivatives>latent, latency</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>murus</LatinWord>
+		<Definition>wall</Definition>
+		<EnglishDerivatives>mural, muralist</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>barbarus</LatinWord>
+		<Definition>uncivilized</Definition>
+		<EnglishDerivatives>barbarian, barbarous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>durus</LatinWord>
+		<Definition>hard</Definition>
+		<EnglishDerivatives>durable, durability</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>avunculus</LatinWord>
+		<Definition>uncle</Definition>
+		<EnglishDerivatives>avuncular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dubium</LatinWord>
+		<Definition>doubt</Definition>
+		<EnglishDerivatives>indubitably, dubious, doubt</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>negotium</LatinWord>
+		<Definition>business</Definition>
+		<EnglishDerivatives>negotiate, negotiable, negotiator</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>castra</LatinWord>
+		<Definition>camp</Definition>
+		<EnglishDerivatives>castramentation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mille</LatinWord>
+		<Definition>thousand</Definition>
+		<EnglishDerivatives>millennium, millimeter, milligram</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>efficare</LatinWord>
+		<Definition>finish</Definition>
+		<EnglishDerivatives>effect, effectual, ineffectual</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>recte</LatinWord>
+		<Definition>in a straight line</Definition>
+		<EnglishDerivatives>rectangle, rectilinear, rectify</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nomen, nominis</LatinWord>
+		<Definition>name</Definition>
+		<EnglishDerivatives>nominal, nomenclature, nominative</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sapiens, sapientis</LatinWord>
+		<Definition>wise</Definition>
+		<EnglishDerivatives>sapient, sapience, sapience</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>significare</LatinWord>
+		<Definition>signify</Definition>
+		<EnglishDerivatives>signify, significant, insignificant</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>claudere</LatinWord>
+		<Definition>close</Definition>
+		<EnglishDerivatives>clause, clausal, claustrophobia</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>condicio, -onis</LatinWord>
+		<Definition>condition</Definition>
+		<EnglishDerivatives>condition, conditional</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>milia</LatinWord>
+		<Definition>miles</Definition>
+		<EnglishDerivatives>miles</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pes, pedis</LatinWord>
+		<Definition>foot</Definition>
+		<EnglishDerivatives>ped, biped, quadraped </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>nuntiare</LatinWord>
+		<Definition>to announce</Definition>
+		<EnglishDerivatives>announce, announcement, announcer</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vehementer</LatinWord>
+		<Definition>violently</Definition>
+		<EnglishDerivatives>vehement, vehemently, vehemence</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vestigium</LatinWord>
+		<Definition>footprint</Definition>
+		<EnglishDerivatives>vestige, vestigial, vestigium</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mensis</LatinWord>
+		<Definition>month</Definition>
+		<EnglishDerivatives>menstruum, mensal, semester</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sol, solis</LatinWord>
+		<Definition>sun</Definition>
+		<EnglishDerivatives>solar, solarium, solarism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>neglegere</LatinWord>
+		<Definition>to disregard</Definition>
+		<EnglishDerivatives>neglect, neglectful, negligible</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>aquila</LatinWord>
+		<Definition>eagle</Definition>
+		<EnglishDerivatives>aquiline</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>acervus</LatinWord>
+		<Definition>heap</Definition>
+		<EnglishDerivatives>acervate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>modus</LatinWord>
+		<Definition>manner</Definition>
+		<EnglishDerivatives>mode, modern, moderate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>avis</LatinWord>
+		<Definition>bird</Definition>
+		<EnglishDerivatives>aviary, avian, aviation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mors, mortis</LatinWord>
+		<Definition>death</Definition>
+		<EnglishDerivatives>mortuary, mortal, mortality</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ovis</LatinWord>
+		<Definition>sheep</Definition>
+		<EnglishDerivatives>ovine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>semen, -inis</LatinWord>
+		<Definition>seed</Definition>
+		<EnglishDerivatives>semen, seminal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>plenus</LatinWord>
+		<Definition>full</Definition>
+		<EnglishDerivatives>plenty, plentiful, plenum, plenary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>saevus</LatinWord>
+		<Definition>fierce</Definition>
+		<EnglishDerivatives>savage, savagery, savigism</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>totus</LatinWord>
+		<Definition>whole</Definition>
+		<EnglishDerivatives>total, totality, teetotal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>crudelis</LatinWord>
+		<Definition>cruel</Definition>
+		<EnglishDerivatives>crude, crudity, cruel</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>gravis</LatinWord>
+		<Definition>heavy</Definition>
+		<EnglishDerivatives>gravity, gravid, gravitate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>serpens, serpentis</LatinWord>
+		<Definition>snake</Definition>
+		<EnglishDerivatives>serpent, serpentiform, serpentarium, serpentine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cantare</LatinWord>
+		<Definition>to sing</Definition>
+		<EnglishDerivatives>canticle, cantible, canto, incantation</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>jubere</LatinWord>
+		<Definition>to order</Definition>
+		<EnglishDerivatives>just, justice, justicible</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>decedere</LatinWord>
+		<Definition>to depart</Definition>
+		<EnglishDerivatives>decedent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>respicare</LatinWord>
+		<Definition>to look back</Definition>
+		<EnglishDerivatives>respect, respectable, respectful</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vivere</LatinWord>
+		<Definition>to live</Definition>
+		<EnglishDerivatives>vivacious, vivacity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>draco</LatinWord>
+		<Definition>dragon</Definition>
+		<EnglishDerivatives>dragon, draconic, draconian, dragonfly</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>placidus</LatinWord>
+		<Definition>calm</Definition>
+		<EnglishDerivatives>placid, placidity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ludere, lusi</LatinWord>
+		<Definition>to play</Definition>
+		<EnglishDerivatives>ludicrous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>spumosus</LatinWord>
+		<Definition>foamy</Definition>
+		<EnglishDerivatives>spumous, spumy</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>contendere</LatinWord>
+		<Definition>contend</Definition>
+		<EnglishDerivatives>contend, contender, contention</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cauda</LatinWord>
+		<Definition>tail</Definition>
+		<EnglishDerivatives>caudate, caudal, caudated</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>spatium</LatinWord>
+		<Definition>space</Definition>
+		<EnglishDerivatives>spatial, spatially, spatio-temporal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>concurrere</LatinWord>
+		<Definition>to run together</Definition>
+		<EnglishDerivatives>concur, concurrent, concurrence</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>confligere</LatinWord>
+		<Definition>to strike together</Definition>
+		<EnglishDerivatives>conflict, confliction, conflictor</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>evadere</LatinWord>
+		<Definition>to escape</Definition>
+		<EnglishDerivatives>evade, evasive, evasion</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>resistere</LatinWord>
+		<Definition>to resist</Definition>
+		<EnglishDerivatives>resist, resistant, irresistible</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sentire</LatinWord>
+		<Definition>to sense</Definition>
+		<EnglishDerivatives>sense, sensible, sensation, sentiment</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>taurus</LatinWord>
+		<Definition>bull</Definition>
+		<EnglishDerivatives>tauriform, taurine, taurin</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cervus</LatinWord>
+		<Definition>stag</Definition>
+		<EnglishDerivatives>cervine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tabernaculum</LatinWord>
+		<Definition>tent</Definition>
+		<EnglishDerivatives>tabernacle, tabernacular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>explorator</LatinWord>
+		<Definition>explorer</Definition>
+		<EnglishDerivatives>explorer, explore, exploration</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>genus</LatinWord>
+		<Definition>kind</Definition>
+		<EnglishDerivatives>genus, generic, generate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>imperator</LatinWord>
+		<Definition>leader</Definition>
+		<EnglishDerivatives>emperor, empery, emperorship</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>legio, legionis</LatinWord>
+		<Definition>legion</Definition>
+		<EnglishDerivatives>legio, legionary, legionaire</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>leo, leonis</LatinWord>
+		<Definition>lion</Definition>
+		<EnglishDerivatives>leonie, Leo</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>perfidus</LatinWord>
+		<Definition>faithless</Definition>
+		<EnglishDerivatives>perfidy, perfidious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>senator</LatinWord>
+		<Definition>senator</Definition>
+		<EnglishDerivatives>senator, senate,, senatorial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dens, dentis</LatinWord>
+		<Definition>tooth</Definition>
+		<EnglishDerivatives>dentist, dental, dentifrice</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>canis</LatinWord>
+		<Definition>canine</Definition>
+		<EnglishDerivatives>canine, Cani Major, canine tooth</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>juvenis</LatinWord>
+		<Definition>youth</Definition>
+		<EnglishDerivatives>juvenile, juvenescence, juvenility</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>frater, fratris</LatinWord>
+		<Definition>brother</Definition>
+		<EnglishDerivatives>fraternity, fratricide, fraternize</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>arbor, arboris</LatinWord>
+		<Definition>tree</Definition>
+		<EnglishDerivatives>arbor, arboraceous, arboreal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>soror</LatinWord>
+		<Definition>sister</Definition>
+		<EnglishDerivatives>sororeal, sorority, soroicide</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>uxor</LatinWord>
+		<Definition>wife</Definition>
+		<EnglishDerivatives>uxorial, uxorius, uxoricide</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>multitudinis</LatinWord>
+		<Definition>crowd</Definition>
+		<EnglishDerivatives>multitude, multitudinous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>animal</LatinWord>
+		<Definition>animal</Definition>
+		<EnglishDerivatives>animal</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>epistula</LatinWord>
+		<Definition>letter</Definition>
+		<EnglishDerivatives>epistle, epistolary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vox, vocis</LatinWord>
+		<Definition>voice</Definition>
+		<EnglishDerivatives>magnavox, voice, vociferous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dexter</LatinWord>
+		<Definition>on the right</Definition>
+		<EnglishDerivatives>dexterous, ambidextrous, dexterity </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sinister</LatinWord>
+		<Definition>on the left</Definition>
+		<EnglishDerivatives>sinister, sinestral, sinestrodextral</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>acer, acris, acre</LatinWord>
+		<Definition>sharp</Definition>
+		<EnglishDerivatives>acrid, acridity, acrimony</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>brevis</LatinWord>
+		<Definition>short</Definition>
+		<EnglishDerivatives>brevity, breviary, brevirostrate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>felix, felicis</LatinWord>
+		<Definition>happy</Definition>
+		<EnglishDerivatives>felicity, felificic, felicitate</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>omnia</LatinWord>
+		<Definition>all</Definition>
+		<EnglishDerivatives>omnibus, omnipotent, omniscient</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>potens, potentis</LatinWord>
+		<Definition>powerful</Definition>
+		<EnglishDerivatives>potent, potentate, omnipotent</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ferox, ferocis</LatinWord>
+		<Definition>wild</Definition>
+		<EnglishDerivatives>ferocious, ferocity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>fortis</LatinWord>
+		<Definition>brave</Definition>
+		<EnglishDerivatives>fortify, fortitude, fortitudinous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>vexare</LatinWord>
+		<Definition>to harass</Definition>
+		<EnglishDerivatives>vex, vexation, vexacious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>male</LatinWord>
+		<Definition>badly</Definition>
+		<EnglishDerivatives>malevolent, malnutrition, malpractice</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>liber, li</LatinWord>
+		<Definition>book</Definition>
+		<EnglishDerivatives>library, liber</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>judicium</LatinWord>
+		<Definition>judgment</Definition>
+		<EnglishDerivatives>judicial, judiciary, judicious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>tertius</LatinWord>
+		<Definition>third</Definition>
+		<EnglishDerivatives>tertiary, tertium, tercical</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ultimus</LatinWord>
+		<Definition>last</Definition>
+		<EnglishDerivatives>ultimate, ultimatum, ultimately</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>infelix</LatinWord>
+		<Definition>unhappy</Definition>
+		<EnglishDerivatives>infelicitous, infelicity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ridere</LatinWord>
+		<Definition>to laugh</Definition>
+		<EnglishDerivatives>ridicule, ridiculous, derisive</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>melior</LatinWord>
+		<Definition>better</Definition>
+		<EnglishDerivatives>meliorate, ameliorate, amelioration</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pejor</LatinWord>
+		<Definition>worse</Definition>
+		<EnglishDerivatives>pejorative, perorate, pejoration</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>major</LatinWord>
+		<Definition>larger</Definition>
+		<EnglishDerivatives>major, majority</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>mare</LatinWord>
+		<Definition>sea</Definition>
+		<EnglishDerivatives>marine, maritime, mariner</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>minor, minus</LatinWord>
+		<Definition>smaller</Definition>
+		<EnglishDerivatives>minor, minority, minus</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>plus</LatinWord>
+		<Definition>more</Definition>
+		<EnglishDerivatives>plus</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>difficilis</LatinWord>
+		<Definition>difficult</Definition>
+		<EnglishDerivatives>difficult, difficulty</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dissimilis</LatinWord>
+		<Definition>dissimilar</Definition>
+		<EnglishDerivatives>dissimilar, dissimilarity</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>frustra</LatinWord>
+		<Definition>in vain</Definition>
+		<EnglishDerivatives>frustrate, frustration</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>superbe</LatinWord>
+		<Definition>proudly</Definition>
+		<EnglishDerivatives>superb, superbly</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>factum</LatinWord>
+		<Definition>fact</Definition>
+		<EnglishDerivatives>fact, factitive, faction</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>unguentum</LatinWord>
+		<Definition>ointment</Definition>
+		<EnglishDerivatives>unguent, ungunetary, unctuous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>venenum</LatinWord>
+		<Definition>poison</Definition>
+		<EnglishDerivatives>venom, venomous</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ignis</LatinWord>
+		<Definition>fire</Definition>
+		<EnglishDerivatives>ignite, ignition, igniter</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>necese</LatinWord>
+		<Definition>necessary</Definition>
+		<EnglishDerivatives>necessary, necessarily, unnecessary</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>arare</LatinWord>
+		<Definition>to plow</Definition>
+		<EnglishDerivatives>arable</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>expirare</LatinWord>
+		<Definition>expire</Definition>
+		<EnglishDerivatives>expire, expiration, expirator</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>jungere</LatinWord>
+		<Definition>to join</Definition>
+		<EnglishDerivatives>junction, conjunction, injunction </EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>eagle</LatinWord>
+		<Definition>aquila</Definition>
+		<EnglishDerivatives>aquiline</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>dog</LatinWord>
+		<Definition>canus</Definition>
+		<EnglishDerivatives>canine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>lion</LatinWord>
+		<Definition>leo</Definition>
+		<EnglishDerivatives>leonine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>sea</LatinWord>
+		<Definition>mare</Definition>
+		<EnglishDerivatives>marine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>pig</LatinWord>
+		<Definition>porcus</Definition>
+		<EnglishDerivatives>porcine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>cat</LatinWord>
+		<Definition>feles</Definition>
+		<EnglishDerivatives>feline</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>woman</LatinWord>
+		<Definition>femina</Definition>
+		<EnglishDerivatives>feminine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>salt</LatinWord>
+		<Definition>sal, salsus</Definition>
+		<EnglishDerivatives>saline</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>bear</LatinWord>
+		<Definition>ursa</Definition>
+		<EnglishDerivatives>ursine</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>midday</LatinWord>
+		<Definition>meridius</Definition>
+		<EnglishDerivatives>meridian</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>world</LatinWord>
+		<Definition>mundus</Definition>
+		<EnglishDerivatives>mundane</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>middle</LatinWord>
+		<Definition>media</Definition>
+		<EnglishDerivatives>median</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>city</LatinWord>
+		<Definition>urbs</Definition>
+		<EnglishDerivatives>urban</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>number</LatinWord>
+		<Definition>numero</Definition>
+		<EnglishDerivatives>numeral</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>teachery</LatinWord>
+		<Definition>perfidius</Definition>
+		<EnglishDerivatives>perfidious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>ambush</LatinWord>
+		<Definition>insidiae</Definition>
+		<EnglishDerivatives>insidious</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>enemy</LatinWord>
+		<Definition>hostis</Definition>
+		<EnglishDerivatives>hostile</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>trial (court)</LatinWord>
+		<Definition>judicium</Definition>
+		<EnglishDerivatives>judicial</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>reason</LatinWord>
+		<Definition>ratio</Definition>
+		<EnglishDerivatives>rational</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>finger</LatinWord>
+		<Definition>digitus</Definition>
+		<EnglishDerivatives>digital</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>chest (anatomy)</LatinWord>
+		<Definition>pectus</Definition>
+		<EnglishDerivatives>pectoral</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>touch</LatinWord>
+		<Definition>tactus</Definition>
+		<EnglishDerivatives>tactile</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>eye</LatinWord>
+		<Definition>oculus</Definition>
+		<EnglishDerivatives>ocular</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>love</LatinWord>
+		<Definition>ama</Definition>
+		<EnglishDerivatives>amatory</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>hair</LatinWord>
+		<Definition>capillus, pilus</Definition>
+		<EnglishDerivatives>capillaceous, piliform</EnglishDerivatives>
+	</record>
+	<record>
+		<LatinWord>island</LatinWord>
+		<Definition>insular</Definition>
+		<EnglishDerivatives>insular</EnglishDerivatives>
+	</record>
+</quiz-data>
