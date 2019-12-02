@@ -1,0 +1,63 @@
+D:\ka\quranImg>ffmpeg -i out.mp4 -vf "[in]drawtext=fontfile=c\\:/Windows/Fonts/arial.ttf:fontsize=40:fontcolor=yellow:x=(w-text_w)/2:y=h/2:textfile=t1.txt:enable='between(t,3,10)' [out]" -c:v libx264 -t 14 out2.mp4
+
+3 second cross-fade of input1.png over input0.png
+ffmpeg -loop 1 -i input0.png -loop 1 -i input1.png -filter_complex "[1:v][0:v]blend=all_expr='A*(if(gte(T,3),1,T/3))+B*(1-(if(gte(T,3),1,T/3)))'" -t 4 frames_%04d.png
+
+ffmpeg -loop 1 -i 3702.jpg -loop 1 -i 3701.jpg -filter_complex "[1:v][0:v]blend=all_expr='A*(if(gte(T,3),1,T/3))+B*(1-(if(gte(T,3),1,T/3)))'" -t 1 video1.mp4
+ffmpeg -loop 1 -i 3703.jpg -loop 1 -i 3702.jpg -filter_complex "[1:v][0:v]blend=all_expr='A*(if(gte(T,3),1,T/3))+B*(1-(if(gte(T,3),1,T/3)))'" -t 1 video2.mp4
+ffmpeg -loop 1 -i 3704.jpg -loop 1 -i 3703.jpg -filter_complex "[1:v][0:v]blend=all_expr='A*(if(gte(T,3),1,T/3))+B*(1-(if(gte(T,3),1,T/3)))'" -t 1 video3.mp4
+ffmpeg -loop 1 -i 3705.jpg -loop 1 -i 3704.jpg -filter_complex "[1:v][0:v]blend=all_expr='A*(if(gte(T,3),1,T/3))+B*(1-(if(gte(T,3),1,T/3)))'" -t 1 video4.mp4
+ffmpeg -i video1.mp4 -i video2.mp4 -i video3.mp4 -i video4.mp4 -filter_complex "[3][2][1][0]concat=4" video5.mp4
+
+ffmpeg -f concat -i c.txt -vf fps=3 -pix_fmt yuv420p 12b.mp4
+
+ffmpeg -loop 1 -i 12e.jpg -t 25 -vf fps=3 -pix_fmt yuv420p 12f.mp4
+
+file 12b.jpg
+duration 19
+file 12d.jpg
+duration 33
+
+
+ffmpeg -loop 1 -i 10.jpg -i 10a.jpg -filter_complex "[1:v][0:v]blend=all_expr='A*(if(gte(T,3),1,T/3))+B*(if(gte(T,3),1,T/3))'" -t 2 i%01d.jpg
+
+Timelapse: Image sequence to a movie
+https://www.youtube.com/watch?v=WDV15nm-KJE
+How to Convert Videos With FFmpeg
+https://www.youtube.com/watch?v=3lSb-jLEJJM
+How to Permanently Add Subtitles to your Videos
+https://www.youtube.com/watch?v=gDA3IRb5bfQ
+How to add subtitle to video
+www.youtube.com/watch?v=mevL1HYVTM0
+Ffmpeg on Windows
+https://www.youtube.com/watch?v=7c0yzTx-I6o
+Tutorial Windows | Screencast
+https://www.youtube.com/watch?v=xUhPejGAApA
+Introduction & Examples
+https://www.youtube.com/watch?v=BiMP_hN8f6s
+Advanced Techniques Pt1 - Advanced Filters
+https://www.youtube.com/watch?v=M58rc7cxl_s
+Advanced Techniques Pt2 - Filtergraphs & Timeline
+https://www.youtube.com/watch?v=hElDsyuAQDA
+How to install clipbucket
+https://www.youtube.com/watch?v=PSbzeiEp8is
+https://www.youtube.com/watch?v=S50R5S-DJz0
+https://www.youtube.com/watch?v=NDdtV36kEJw
+
+
+
+How to add subtitle to a video
+https://www.youtube.com/watch?v=hE86JrYAeIk
+
+
+ffmpeg -i 019091.jpg -i 019091.mp3 019091.mp4
+ffmpeg -f concat -i c.txt -c copy q001.mp4
+
+q.txt:
+file '019091.mp4'
+file '019092.mp4'
+file '019093.mp4'
+file '019094.mp4'
+file '019095.mp4'
+
+https://archive.org/download/3-6-quran-6236-ayah-by--MOHAMMAD-ABD-ALKAREEM---part3/019096.mp3
