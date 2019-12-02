@@ -1,0 +1,165 @@
+﻿-c:a aac -vn -y out.m4a
+----------------------------
+        List<string> allLinesText;
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                if (File.Exists(@"C:\ka\qrn5\f.txt"))
+                {
+                    File.Delete(@"C:\ka\qrn5\f.txt");
+                }
+            }
+        }
+
+        protected void btnFfmpeg_Click(object sender, EventArgs e)
+        {
+            allLinesText = File.ReadAllLines(@"C:\ka\qrn5\" + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') + ".txt").ToList();
+
+            lblFfmpeg1.Text = "ffmpeg -i " + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') + ".mp3 -ss " +
+                allLinesText[(int.Parse(tbFrom.Text) - 1)].Substring(8, 12) + " -to " +
+                allLinesText[int.Parse(tbTo.Text)].Substring(8, 12) +
+                " -y " + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbFrom.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbTo.Text).ToString().PadLeft(3, '0') + ".mp3";
+
+            lblFfmpeg2.Text = "ffmpeg -i " + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbFrom.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbTo.Text).ToString().PadLeft(3, '0') + ".mp3 " +
+                "-filter_complex \"aevalsrc=exprs=0:d=3[silence], " +
+                "[0:a] [silence] concat=n=2:v=0:a=1[outa]\" -map [outa] -y " + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbFrom.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbTo.Text).ToString().PadLeft(3, '0') +
+                ddlSubject.Text + ".mp3";
+
+            File.AppendAllText(@"C:\ka\qrn5\f.txt", lblFfmpeg1.Text + Environment.NewLine);
+            File.AppendAllText(@"C:\ka\qrn5\f.txt", lblFfmpeg2.Text + Environment.NewLine);
+            File.AppendAllText(@"C:\ka\qrn5\f.txt",
+                "del " + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') + int.Parse(tbFrom.Text).ToString().PadLeft(3, '0') +
+                int.Parse(tbTo.Text).ToString().PadLeft(3, '0') + ".mp3 " + Environment.NewLine);
+        }
+
+        protected void btnAyatTimings_Click(object sender, EventArgs e)
+        {
+            allLinesText = File.ReadAllLines(@"C:\ka\qrn5\" + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') + ".txt").ToList();
+            int j = 1;
+
+            foreach (var item in allLinesText)
+            {
+                lblResult.Text += j.ToString().PadLeft(3, '0') + " : " + item.Substring(8, 12) + "<br />";
+                j++;
+            }
+        }
+---------------------------------------
+            <table style="width: 100%;">
+                <tr>
+                    <td>Sura No.
+                        <asp:TextBox ID="tbSura" runat="server"></asp:TextBox>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>From Aya:
+                        <asp:TextBox ID="tbFrom" runat="server"></asp:TextBox>
+                    </td>
+                    <td>To Aya:
+                        <asp:TextBox ID="tbTo" runat="server"></asp:TextBox>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Button ID="btnFfmpeg" runat="server" Text="Submit" OnClick="btnFfmpeg_Click" />
+                    </td>
+                    <td>
+                        <asp:DropDownList ID="ddlSubject" runat="server">
+                            <asp:ListItem Selected="True" Text="اختر" Value="sb"></asp:ListItem>
+                            <asp:ListItem Text="نسخ تعليق" Value="ns"></asp:ListItem>
+                            <asp:ListItem Text="موضوعي" Value="sb"></asp:ListItem>
+                            <asp:ListItem Text="طباطبائي" Value="tb"></asp:ListItem>
+                        </asp:DropDownList>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Label ID="lblFfmpeg1" runat="server"></asp:Label>
+                    </td>
+                    <td>
+                        <asp:Button ID="btnAyatTimings" runat="server" Text="Get Ayat Timings" OnClick="btnAyatTimings_Click" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:Label ID="lblFfmpeg2" runat="server"></asp:Label>
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+            <asp:Label ID="lblResult" runat="server"></asp:Label>
+--------------------------------
+----------------------------------
+        List<string> allLinesText;
+
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnAyatTimings_Click(object sender, EventArgs e)
+        {
+            allLinesText = File.ReadAllLines(@"C:\ka\qrn5\" + int.Parse(tbSura.Text).ToString().PadLeft(3, '0') + ".txt").ToList();
+
+            foreach (var item in allLinesText)
+            {
+                //lblResult.Text += j.ToString().PadLeft(3, '0') + " : " + item.Substring(8, 8) + "<br />";
+                lblResult.Text += tbSura.Text.PadLeft(3, '0') + ";000;" +
+                    TimeSpan.FromSeconds(double.Parse(item)).ToString(@"hh\:mm\:ss\.fff") + "<br />";
+            }
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            for (int i = 1; i <= 64; i++)
+            {
+                Response.Write((i * 37 / 64).ToString().PadLeft(3, '0') + "<br />");
+            }
+        }
+--------------------------------------
+           <table style="width: 100%;">
+                <tr>
+                    <td>Sura No.
+                        <asp:TextBox ID="tbSura" runat="server"></asp:TextBox>
+                    </td>
+                    <td>
+                        <asp:Button ID="btnAyatTimings" runat="server" Text="Get Ayat Timings" OnClick="btnAyatTimings_Click"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>&nbsp;</td>
+                    <td>
+                        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+                    </td>
+                </tr>
+            </table>
+            <asp:Label ID="lblResult" runat="server"></asp:Label>
+-----------------------------------------
+to detect intervals of silence
+ffmpeg -i 001.mp3 -af silencedetect=noise=-30dB:d=0.5 -f null - 2> vol.txt
+---------------------------------------------------------
+\[silencedetect \@ 000002642fc29680\] 
+ \| silence_duration.*?\r\n
+------------------
+:(\d\d\d)
+.\1
+--------------
+\r\nsilence_start: 
+	
+---------
+;(\d\d\d);(\d\d\d);
+;\1;000;
+-----------------
+$timeString = "00:12:04,970"
+$timeStringWithPeriod = $timeString.Replace(",",".")
+$timespan = [TimeSpan]::Parse($timestringWithPeriod)
+$totalSeconds = $timespan.TotalSeconds
+-----------------
